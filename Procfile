@@ -1,1 +1,1 @@
-web: setup.sh && flask run
+web: setup.sh && heroku run -a app
