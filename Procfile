@@ -1,1 +1,1 @@
-web: setup.sh && heroku run -a app
+web: setup.sh && heroku run --app app.py
